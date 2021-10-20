@@ -6,8 +6,8 @@ $("#open").click(function(){
 	if(!aparted)
 	{
 		var typed = new Typed('.letter', {
-			strings: ["^1000Heloo, mình là hoangdepzai :v ", 
-				"<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bạn là đại dương còn tôi là sóng biển, đại dương buồn sóng biển cũng mênh mông :v<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nhân 20-10,chúc all các bạn nữ (ngoài dũng) thật là nhiều niềm vui,xinh xắn và tìm kiếm 1 nửa kia thât phù hợp！<br><br><p style='float:right; display:block; width:80px;'>Hehe <3</p>"],
+			strings: ["^1000Gửi cậu", 
+				"Gửi người tớ yêu<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn tớ, tớ sẽ dành cả phần đời còn lại để yêu cậu, để mang lại hạnh phúc cho cậu！<br><br><p style='float:right; display:block; width:80px;'>Yêu Cậu</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
